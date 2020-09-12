@@ -12,6 +12,5 @@ it's as simple as downloading the [signature.html](signature.html) file and repl
 (it's not stealing if you star this repo).
 
 ## Future enhancements
-Quite honestly, I'm not remotely satisfied.
 
-* I might add more social media icons options if needed.
+* I'm open to making it more customisable (eg: adding other social media icons options) if other people seemed to need them, just open an issue or message me.
